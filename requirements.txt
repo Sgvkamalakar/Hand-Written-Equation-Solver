@@ -5,5 +5,5 @@ opencv-python==4.7.0.68
 numpy
 pandas
 matplotlib
-sklearn
+scikit-learn
 seaborn
