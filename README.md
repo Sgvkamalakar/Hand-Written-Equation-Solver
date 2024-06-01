@@ -74,7 +74,11 @@ The Handwritten Equation Solver project addresses the challenge of accurately in
    ![image](https://github.com/Sgvkamalakar/Hand-Written-Equation-Solver/assets/103712713/da75072d-482d-4b4f-8b2e-9fafd519f1be)
 
 
+### 🎥 Demo
 
+https://github.com/Sgvkamalakar/Hand-Written-Equation-Solver/assets/103712713/356ea492-0f6e-41f5-9612-bfd583534ca3
+
+ 
 ### 🚀 **Models Implemented**
 
 - Convolutional Neural Netowrk (CNN)
